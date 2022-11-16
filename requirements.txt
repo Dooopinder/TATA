@@ -1,0 +1,8 @@
+pandas==1.4.2
+xlrd ==2.0
+openpyxl<=3.3
+plotly==5.6.0
+streamlit==1.12.2
+Pillow==8.1.2
+tensorflow==2.9
+tensorflow_probability
